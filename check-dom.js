@@ -35,5 +35,5 @@ window.onload = function () {
     var checkDom = new CheckDom();
 
     //check #app for strings
-    checkDom.forStrings('app', ['Septemque', 'illic', 'oppida']);
+    checkDom.forStrings('app', ['Cesserunt', 'praebebat', 'diu']);
 }
